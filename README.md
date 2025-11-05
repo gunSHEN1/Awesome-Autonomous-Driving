@@ -44,7 +44,7 @@
 | **Benchmarking Egocentric Visual-Inertial SLAM at City Scale** | ICCV | 2025 | [https://arxiv.org/abs/2509.26639](https://arxiv.org/abs/2509.26639) |  | 3D SLAM |
 | **SuperEvent: Cross-Modal Learning of Event-based Keypoint Detection for SLAM** | ICCV | 2025 | [https://arxiv.org/abs/2504.00139](https://arxiv.org/abs/2504.00139) |  | 3D SLAM |
 | **SEGS-SLAM: Structure-enhanced 3D Gaussian Splatting SLAM with Appearance Embedding** | ICCV | 2025 | https://arxiv.org/abs/2501.05242 |  | 3D SLAM |
-| **Underwater Visual SLAM with Depth Uncertainty and Medium Modeling** | ICCV | 2025 | https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Underwater_Visual_SLAM_with_Depth_Uncertainty_and_Medium_Modeling_ICCV_2025_paper.pdf |  | 3D SLAM |
+| **Underwater Visual SLAM with Depth Uncertainty and Medium Modeling** | ICCV | 2025 |  |  | 3D SLAM |
 | **3DGS-LM: Faster Gaussian-Splatting Optimization with Levenberg-Marquardt** | ICCV | 2025 | [https://arxiv.org/pdf/2409.12892](https://arxiv.org/pdf/2409.12892) |  | 3D SLAM |
 | **RegGS: Unposed Sparse Views Gaussian Splatting with 3DGS Registration** | ICCV | 2025 | [https://arxiv.org/pdf/2507.08136](https://arxiv.org/pdf/2507.08136) |  | 3D SLAM |
 | **RobustSplat: Decoupling Densification and Dynamics for Transient-Free 3DGS** | ICCV | 2025 | [https://arxiv.org/pdf/2506.02751](https://arxiv.org/pdf/2506.02751) |  | 3D SLAM |
@@ -52,6 +52,8 @@
 | **SeqGrowGraph: Learning Lane Topology as a Chain of Graph Expansactions** | ICCV | 2025 | [https://arxiv.org/pdf/2507.04822](https://arxiv.org/pdf/2507.04822) |  | HD Map |
 | **MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction** | ICLR | 2023 | [https://arxiv.org/abs/2208.14437](https://arxiv.org/abs/2208.14437) |  | HD Map |
 |  |  |  |  |  |  |
+
+[openaccess.thecvf.com](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Underwater_Visual_SLAM_with_Depth_Uncertainty_and_Medium_Modeling_ICCV_2025_paper.pdf)
 
 # **感知（Perception）**
 
