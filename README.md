@@ -53,8 +53,6 @@
 | **MapTR: Structured Modeling and Learning for Online Vectorized HD Map Construction** | ICLR | 2023 | [https://arxiv.org/abs/2208.14437](https://arxiv.org/abs/2208.14437) |  | HD Map |
 |  |  |  |  |  |  |
 
-[openaccess.thecvf.com](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Underwater_Visual_SLAM_with_Depth_Uncertainty_and_Medium_Modeling_ICCV_2025_paper.pdf)
-
 # **感知（Perception）**
 
 # 预测（Motion Forecasting）
